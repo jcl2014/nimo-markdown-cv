@@ -6,7 +6,7 @@ homepage:
     url: http://cs.cmu.edu/~woden
     text: cs.cmu.edu/~woden
 ---
-# Wode __Ni__
+# Love __Lois__
 
 <!--
 include contact information from the front matter
