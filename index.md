@@ -17,20 +17,26 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## Love Journey
 
 ### __Carnegie Mellon University__ `2018.9 -`
 ```
 Pittsburgh, PA
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Mechanical Engineering / Deep learning
+- Working hard to acquire experience on coding and earn more money for Estée Lauder 
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Chentao Capital__ `2014.9 - 2018.6`
 ```
-New York, NY
+Shanghai, China
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
+
+
+### __Shanghai Jiaotong University__ `2014.9 - 2018.6`
+```
+Shanghai, China
+```
+- B.S. in Mechanical Engineering
 - Vision, Graphics track
 
 ### __Dickinson College__ `2013.9 - 2016.5`
