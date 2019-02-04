@@ -3,8 +3,8 @@ layout: cv
 title: Wode "Nimo" Ni
 email: woden@cs.cmu.edu
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: http://I love Lois.com
+    text: 17 months anniversary
 ---
 # Love __Lois__
 
@@ -30,6 +30,8 @@ Pittsburgh, PA
 ```
 Shanghai, China
 ```
+- Lived in Shanghai for more than one month.
+- Lots of beautiful memories.
 
 
 ### __Shanghai Jiaotong University__ `2014.9 - 2018.6`
@@ -39,12 +41,7 @@ Shanghai, China
 - B.S. in Mechanical Engineering
 - Vision, Graphics track
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+
 
 ## Publications
 
