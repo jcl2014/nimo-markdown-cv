@@ -45,6 +45,7 @@ Shanghai, China
 ```
 Nanjing China
 ```
-- More than 15 times 
+- More than 15 times between Shanghai and Nanjing
+- Our first 100, 200 days
 
 
